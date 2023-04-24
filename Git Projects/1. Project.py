@@ -3,3 +3,6 @@ def object(a):
 
 def blut(b):
     object(b)
+
+def blut1(c, func):
+    return c + func
